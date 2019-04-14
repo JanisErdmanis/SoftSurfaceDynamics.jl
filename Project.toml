@@ -1,0 +1,10 @@
+name = "SoftSurfaceDynamics"
+uuid = "dadf5e9c-5ea6-11e9-3b8b-91f6635f1c95"
+authors = ["akels <akels14@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+GeometryTypes = "4d00f742-c7ba-57c2-abde-4428a4b178cb"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Optim = "429524aa-4258-5aef-a3af-852621145aeb"
+Parameters = "d96e819e-fc66-5662-9728-84c9c7592b0a"
